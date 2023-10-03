@@ -1,5 +1,16 @@
-# Hola! y Bienvenido👋
-Mi nombre es Marcelo Romo, soy estudiante de Ingeniería en Computación que esta próximo a egresar. Actualmente me encuentro desarrollando mi memoria de titulo, la cual consta de una aplicación llamada "DISTO" dirigida a personas con disfemia o tartamudez tónica. En el presente repositorio encontrarás distintos proyectos tanto personales desarrollados en mi tiempo libre cómo también universitarios solicitados a lo largo de la carrera permitiendo e incentivando el trabajo colaborativo entre estudiantes.
+<div align="justify">
+
+# ¡Hola! y ¡Bienvenido!👋
+Mi nombre es Marcelo Romo, egresado de la carrera de Ingeniería en Computación en la Universidad de La Serena. Soy un desarrollador Backend porque el destino así lo quiso, básicamente es en lo que más he trabajado en cuanto a práctica profesional y desarrollo de proyectos realizados por el paso en la Universidad. 
+
+- 🎓 Me considero un aficionado en la programación día a día trabajando para ampliar mis conocimientos y habilidades en esta área. 
+- 💻 Valoro la colaboración, el trabajo en equipo y el intercambio de ideas para lograr grandes resultados.
+- 🔎 Dispuesto a invertir tiempo y esfuerzo para mejorar mis habilidades ante nuevas oportunidades de aprendizaje y desarrollo.
+- 💙 "Memoria de Título: DISTO", un logro personal que quisiera compartir. Software dirigido a personas con Disfemia Tónica.
+
+En el presente repositorio encontrarás distintos proyectos, tanto personales desarrollados en mi tiempo libre, cómo también universitarios desarrollados a lo largo de la carrera, permitiendo e incentivando el trabajo colaborativo entre estudiantes.
+
+</div>
 
 ## Habilidades / Tecnologías
 Mis habilidades se basan principalmente en:
@@ -16,14 +27,3 @@ Mis habilidades se basan principalmente en:
 <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" /> <img src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white" /> <img src="https://img.shields.io/badge/Dart-0175C2.svg?style=for-the-badge&logo=Dart&logoColor=white" />
 
 <img src="https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" /> <img src="https://img.shields.io/badge/Elastic%20Stack-005571.svg?style=for-the-badge&logo=Elastic-Stack&logoColor=white" />
-
-## Roadmap de aprendizaje
-- [ ] Profundizar en el Framework Spring
-- [ ] Profundizar en el stack HTML / CSS / JS
-- [ ] Aprender uno de los Frameworks REACT / ANGULAR
-- [ ] Estudiar topicos tales como:
-    - Metodologias agiles
-    - Testing
-    - Principios SOLID
-    - Patrones de diseño
-    - Arquitectura de software
